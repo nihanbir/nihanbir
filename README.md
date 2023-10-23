@@ -1,4 +1,4 @@
-### Hi there, I'm [Nihan Bir] 👋
+### Hi there, I'm Nihan Bir 👋
 
 🌍 Former Flight Attendant ✈️ | 🎮 Aspiring Game Programmer 🕹️ | 🌟 Seeking Internship Opportunities 🚀
 
