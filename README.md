@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about the dynamic world of game dev
 - ✈️ **Flying to Coding**: Transitioning from the skies to the virtual worlds, I bring a unique perspective and a strong sense of adaptability to my coding projects.
 - 🕹️ **Gamer at Heart**: I've always been an avid gamer, and now, I'm committed to creating immersive gaming experiences. From concept to code, I love every part of the game development process.
 - 💻 **Coding Enthusiast**: I'm a student of game programming, constantly exploring new technologies and frameworks to bring exciting game concepts to life.
-- 🤝 **Seeking Internship**: Currently on the lookout for internship opportunities to further my skills and collaborate with passionate developers in the industry.
+- 🤝 **Doing Internship**: Currently doing internship at [Ballistic Pork](https://ballisticpork.se/).
 
 ### Languages & Tools 🛠️
 - <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon" width="18" height="18" /> C++
@@ -24,6 +24,6 @@ Welcome to my GitHub profile! I'm passionate about the dynamic world of game dev
 
 🌐 Check out my [portfolio](https://nihanbir.mystrikingly.com/)
 
-📫 You can reach me at [nihan.bir@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/nihanbir/). 
+📫 You can reach me at nihan.bir@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/nihanbir/). 
 
 Looking forward to embarking on new coding adventures! 🌌
