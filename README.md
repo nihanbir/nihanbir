@@ -24,6 +24,6 @@ Welcome to my GitHub profile! I'm passionate about the dynamic world of game dev
 
 🌐 Check out my [portfolio](https://nihanbir.mystrikingly.com/)
 
-📫 You can reach me at [nihan.bir@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/nihan-bir-b81aa2191/). 
+📫 You can reach me at [nihan.bir@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/nihanbir/). 
 
 Looking forward to embarking on new coding adventures! 🌌
