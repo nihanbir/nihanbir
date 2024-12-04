@@ -1,13 +1,13 @@
 ### Hi there, I'm Nihan Bir 👋
 
-🌍 Former Flight Attendant ✈️ | 🎮 Aspiring Game Programmer 🕹️ | 🌟 Seeking Internship Opportunities 🚀
+🌍 Former Flight Attendant ✈️ | 🎮 Aspiring Game Programmer 🕹️ | 🌟 Seeking Job Opportunities 🚀
 
 Welcome to my GitHub profile! I'm passionate about the dynamic world of game development and am on a journey as a former flight attendant to work on my coding skills. Here's a bit more about me:
 
 - ✈️ **Flying to Coding**: Transitioning from the skies to the virtual worlds, I bring a unique perspective and a strong sense of adaptability to my coding projects.
 - 🕹️ **Gamer at Heart**: I've always been an avid gamer, and now, I'm committed to creating immersive gaming experiences. From concept to code, I love every part of the game development process.
 - 💻 **Coding Enthusiast**: I'm a student of game programming, constantly exploring new technologies and frameworks to bring exciting game concepts to life.
-- 🤝 **Doing Internship**: Currently doing internship at [Ballistic Pork](https://ballisticpork.se/).
+- 🤝 **Internship**: Done internship at [Ballistic Pork](https://ballisticpork.se/).
 
 ### Languages & Tools 🛠️
 - <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon" width="18" height="18" /> C++
