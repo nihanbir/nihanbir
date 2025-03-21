@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about the dynamic world of game dev
 - <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira Icon" width="18" height="18" /> Jira
 - <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello Icon" width="18" height="18" /> Trello
 
-🌐 Check out my [portfolio](https://nihanbir.mystrikingly.com/)
+🌐 Check out my [portfolio](https://nihanbir.github.io/portfolio-website/)
 
 📫 You can reach me at nihan.bir@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/nihanbir/). 
 
